@@ -1,0 +1,20 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+.vscode/
+.vs/
+
+# Ignore dependency directories
+node_modules/
+
+# Ignore configuration files
+*.config
+*.env
+
+# Ignore logs
+*.log
+
+# Ignore other files
+*.DS_Store
